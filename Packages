@@ -1,0 +1,16 @@
+Package: wang.huxiaopan.Colorful
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: 胡小胖 <sqxiaogang@vip.qq.com>
+Depends:
+Filename: /Colorful.deb
+Size: 16370812
+MD5sum: 3BF336757DDE61B8F4AC789F78D33367
+SHA1: 6C75385A3B843403D6DD053B24442E10AE1AC6DA
+SHA256: 9F2260EC5AD49FEFF671A2E4C863F1F0F839918C49CB7952831E11464CECBFC0
+Section: Themes
+Description: Colorful多彩边框
+Author: 胡小胖
+Name: Colorful多彩边框
+
+
