@@ -3,7 +3,7 @@ Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: 胡小胖 <sqxiaogang@vip.qq.com>
 Depends:
-Filename: /Colorful.deb
+Filename: ./debs/Colorful.deb
 Size: 16370812
 MD5sum: 3BF336757DDE61B8F4AC789F78D33367
 SHA1: 6C75385A3B843403D6DD053B24442E10AE1AC6DA
