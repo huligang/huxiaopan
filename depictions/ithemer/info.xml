@@ -1,0 +1,27 @@
+<package>
+	<id>wang.huxiaopan.iThemer</id>
+	<name>iThemer</name>
+	<version>1.0~beta1-2</version>
+	<compatibillity>
+		<firmware>
+			<miniOS>1.0</miniOS>
+		</firmware>
+	</compatibillity>
+	<dependencies>
+		<package>ithemer</package>
+	</dependencies>
+	<descriptionlist>
+		<description>sdjflkjsdlkfjlskjflskdjflskjdflskjdfl</description>
+	</descriptionlist>
+	<changelog>
+		<version>1.0~beta1-2</version>
+		<change>initlal Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://huxiaopan.wang/r/jailbreak</url>
+			<iconclass>fab fa-reddit</iconclass>
+		</link>
+	<links>
+</package>
