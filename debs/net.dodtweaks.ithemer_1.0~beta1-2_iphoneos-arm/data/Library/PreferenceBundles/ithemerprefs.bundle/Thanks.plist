@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>action</key>
+			<string>buuf</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Buufjuiced Repo</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<integer>1</integer>
+			<key>footerText</key>
+			<string>Very special thank you to @Buufjuiced and @211this, without these 2 iThemer probably would have never been completed. Thanks to @bulldog5278 for the icon.
+
+A very big thank you to the discord private testers:
+NewD, misterjrw, D-Shin, Auntie Janet, amanda, Andorri, coccco28, daddykool, imbombmom, ModdingMad, niels.altaner, Shortarse Lisa, Tito12
+
+Also thank you to the following who helped on twitter:
+@Jato_BZ, @mef3579, @mattbrennn82, @SteveMeyer420, @menard_00, @Jimmyabear, @AVDESIGNS, @Jkauf55
+
+Sorry if I forgot anyone
+		</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<integer>1</integer>
+			<key>footerText</key>
+			<string>iThemer © DODGraphics 2019
+iThemer icon design by @bulldog5278
+		</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Special Thanks</string>
+</dict>
+</plist>
